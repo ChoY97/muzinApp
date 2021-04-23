@@ -11,6 +11,7 @@
 <img src = "https://user-images.githubusercontent.com/82933290/115819707-69803380-a43a-11eb-958b-6444cbda86b6.png" width ="20%" height = "10%" align = "right">
 
 - 화면 구성
+- 화면 비율 1(로그인 텍스트 1 : input 2 (id 1 : pw 1)  : 버튼 3)
 - text --> 로그인
 - input --> id
 - input --> pw
