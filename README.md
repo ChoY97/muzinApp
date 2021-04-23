@@ -7,8 +7,8 @@
 - 💻 User
 
 ## 💻Login Screen
-<img src = "https://user-images.githubusercontent.com/82933290/115818885-b7943780-a438-11eb-9ac2-69063f858909.png" width ="10%" height = "10%" align = "left">
-<img src = "https://user-images.githubusercontent.com/82933290/115819707-69803380-a43a-11eb-958b-6444cbda86b6.png" width ="10%" height = "10%" align = "right">
+<img src = "https://user-images.githubusercontent.com/82933290/115818885-b7943780-a438-11eb-9ac2-69063f858909.png" width ="20%" height = "10%" align = "left">
+<img src = "https://user-images.githubusercontent.com/82933290/115819707-69803380-a43a-11eb-958b-6444cbda86b6.png" width ="20%" height = "10%" align = "right">
 
 - 화면 구성
 - text --> 로그인
