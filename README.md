@@ -33,4 +33,4 @@ muzinApp
 - 화면 구성
 - 화면 비율 1( 진모터스 텍스트 1 : 가로 스크롤 뷰 1 : 그리드 레이아웃 5 (1 ( 1 : 1 : 1 : 1) ) )
 - 스크롤 뷰 -> ScrollView 설정에 horizontal = {true} 설정하여 세로스크롤 뷰를 가로로 스크롤 뷰로 변경
-- 그리드 레이아웃 -> 뷰 style에 flexDirection = 'row' 를 설정하여 그리드 뷰 
+- 그리드 레이아웃 -> 뷰 style에 flexDirection = 'row' 를 설정하여 그리드 뷰 형성
