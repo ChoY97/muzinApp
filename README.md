@@ -7,6 +7,7 @@
 - 💻 User
 
 ## 💻Login Screen
+``mermaid
 graph LR
 - text --> 로그인
 - (input) --> id
