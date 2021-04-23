@@ -27,4 +27,8 @@ muzinApp
 <br/><br/>
 
 ## 💻 User
+<img src = "https://user-images.githubusercontent.com/82933290/115821027-f6c48780-a43c-11eb-951f-9ad322f0f86c.png" width ="12%" height = "10%" align = "left">
+<img src = "https://user-images.githubusercontent.com/82933290/115821048-047a0d00-a43d-11eb-8b84-ab9d472d72b6.png" width ="12%" height = "10%" align = "left">
+
+
 
