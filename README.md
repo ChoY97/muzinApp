@@ -7,4 +7,4 @@
 - User
 
 
-[N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)
+[![Login|Screen](https://travis-ci.org/joemccann/dillinger.svg?branch=master)]
