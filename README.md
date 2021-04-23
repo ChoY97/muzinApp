@@ -39,4 +39,7 @@
 <br/>
 
 - 스크롤 뷰 -> ScrollView 설정에 horizontal = {true} 설정하여 세로스크롤 뷰를 가로로 스크롤 뷰로 변경
+
+<br/>
+
 - 그리드 레이아웃 -> 뷰 style에 flexDirection = 'row' 를 설정하여 그리드 뷰 형성
