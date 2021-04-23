@@ -1,6 +1,6 @@
-
+<h1 algin = "center">
 # muzinApp
-
+</h1>
 <br/><br/>
 
 ## Contents
