@@ -13,7 +13,7 @@ function HomeScreen({navigation}) {
       setId('');
       setPw('');
     } else {
-      Alert.alert('아이디 비밀번호를 확인해 주세요');
+      Alert.alert('아이디 비밀번호를 확인0해 주세요');
     }
   };
   const [id, setId] = useState('');
