@@ -10,9 +10,9 @@
 <br/><br/>
 
 ## 💻Login Screen
-<img src = "https://user-images.githubusercontent.com/82933290/115818885-b7943780-a438-11eb-9ac2-69063f858909.png" width ="12%" height = "10%" align = "left">
-<img src = "https://user-images.githubusercontent.com/82933290/115820393-adc00380-a43b-11eb-9c53-d19b93a37d6b.png" width ="12%" height = "10%" align = "left">
-<img src = "https://user-images.githubusercontent.com/82933290/115819707-69803380-a43a-11eb-958b-6444cbda86b6.png" width ="12%" height = "10%" align = "left">
+<img src = "https://user-images.githubusercontent.com/82933290/115818885-b7943780-a438-11eb-9ac2-69063f858909.png" width ="12%" align = "left">
+<img src = "https://user-images.githubusercontent.com/82933290/115820393-adc00380-a43b-11eb-9c53-d19b93a37d6b.png" width ="12%" align = "left">
+<img src = "https://user-images.githubusercontent.com/82933290/115819707-69803380-a43a-11eb-958b-6444cbda86b6.png" width ="12%" align = "left">
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
