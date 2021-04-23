@@ -16,7 +16,7 @@
 - 화면 비율 1(로그인 텍스트 1 : input 2 (id 1 : pw 1)  : 버튼 3)
 - text --> 로그인
 - input --> id
-- input --> pw
+- input --> pw --> secureTextEntry 설정하여 입력 값을 
 - Button --> Login 버튼
 - 버튼 클릭시 정해놓은 id, pw 값이 아닐경우 알림창이 나오며 
 - 동일한 경우 페이지가 이동하며 id, pw값을 초기화
