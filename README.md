@@ -7,7 +7,7 @@
 - 💻 User
 
 ## 💻Login Screen
-text --> 로그인
-- (input) --> id
-- (input) --> pw
-- (Button) --> {Login}버튼
+- text --> 로그인
+- input --> id
+- input --> pw
+- Button --> Login 버튼
