@@ -7,7 +7,7 @@
 - 💻 User
 
 ## 💻Login Screen
-![Screenshot_1619152493](https://user-images.githubusercontent.com/82933290/115818885-b7943780-a438-11eb-9ac2-69063f858909.png)
+![title][Screenshot_1619152493](https://user-images.githubusercontent.com/82933290/115818885-b7943780-a438-11eb-9ac2-69063f858909.png)
 
 - text --> 로그인
 - input --> id
