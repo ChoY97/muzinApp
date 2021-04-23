@@ -1,5 +1,5 @@
 <h1 align = "center">
-muzinApp
+📱muzinApp
 </h1>
 <br/><br/>
 
