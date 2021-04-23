@@ -21,7 +21,7 @@
 - input --> id
 - input --> pw --> secureTextEntry 설정하여 입력 값을 가려줌
 - Button --> Login 버튼
-- 버튼 클릭시 정해놓은 id, pw 값이 아닐경우 알림창이 나오며 
+- 버튼 클릭시 useState를 통하여 정해놓은 id, pw 값이 아닐경우 알림창이 나오며 
 - 동일한 경우 페이지가 이동하며 id, pw값을 초기화
 
 <br/><br/>
