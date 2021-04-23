@@ -16,9 +16,6 @@
 
 
 - 화면 구성
-
-<br/>
-
 - 화면 비율 1(로그인 텍스트 1 : input 2 (id 1 : pw 1)  : 버튼 3)
 - text --> 로그인
 - input --> id
@@ -34,6 +31,12 @@
 <img src = "https://user-images.githubusercontent.com/82933290/115821048-047a0d00-a43d-11eb-8b84-ab9d472d72b6.png" width ="12%" height = "10%" align = "right">
 
 - 화면 구성
+
+<br/>
+
 - 화면 비율 1( 진모터스 텍스트 1 : 가로 스크롤 뷰 1 : 그리드 레이아웃 5 (1 ( 1 : 1 : 1 : 1) ) )
+
+<br/>
+
 - 스크롤 뷰 -> ScrollView 설정에 horizontal = {true} 설정하여 세로스크롤 뷰를 가로로 스크롤 뷰로 변경
 - 그리드 레이아웃 -> 뷰 style에 flexDirection = 'row' 를 설정하여 그리드 뷰 형성
