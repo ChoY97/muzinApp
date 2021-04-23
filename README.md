@@ -2,9 +2,13 @@
   muzinApp
 </h>
 
+<br/><br/>
+
 ## Contents
 - 💻 Login
 - 💻 User
+
+<br/><br/>
 
 ## 💻Login Screen
 <img src = "https://user-images.githubusercontent.com/82933290/115818885-b7943780-a438-11eb-9ac2-69063f858909.png" width ="12%" height = "10%" align = "left">
@@ -21,6 +25,6 @@
 - 버튼 클릭시 정해놓은 id, pw 값이 아닐경우 알림창이 나오며 
 - 동일한 경우 페이지가 이동하며 id, pw값을 초기화
 
-<br/>
+<br/><br/>
 
 ## 💻 User
