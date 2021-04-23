@@ -7,6 +7,7 @@
 - 💻 User
 
 ## 💻Login Screen
+You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
 ``mermaid
 graph LR
 - text --> 로그인
