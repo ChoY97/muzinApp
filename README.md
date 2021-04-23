@@ -1,5 +1,5 @@
 <h1 algin = "center">
-# muzinApp
+muzinApp
 </h1>
 <br/><br/>
 
